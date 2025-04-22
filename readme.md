@@ -22,10 +22,10 @@ Le fichier Excel source (dans le dossier `data/`) doit contenir une colonne :
 
 | Titre                         | Lien                                      |
 |------------------------------|-------------------------------------------|
-| CROSSOVER ENTRE ONE PIECE... | https://www.youtube.com/watch?v=xxxxxxx   |
-| LE TERRIBLE SECRET DE LA...  | https://www.youtube.com/watch?v=yyyyyyy   |
+| INCROYABLE VIDEO YOUTUBE ... | https://www.youtube.com/watch?v=xxxxxxx   |
+| AUTRE INCROYABLE VIDEO Y...  | https://www.youtube.com/watch?v=yyyyyyy   |
 
-- La colonne contenant les URL **doit être nommée `Lien`**
+- La colonne contenant les URL **doit être nommée `Lien` (case sensitive)**
 - Le titre peut être présent ou non, il n'est pas utilisé (optionnel)
 
 ---
