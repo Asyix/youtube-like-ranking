@@ -1,2 +1,3 @@
-credentials
-token.*
+credentials/client_secret.json
+token.json
+results
